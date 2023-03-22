@@ -1,4 +1,4 @@
-# Kaggle Tabular Playground Series - July 2022 <!-- omit in toc -->
+# TPS S2E7 <!-- omit in toc -->
 ## Clustering <!-- omit in toc -->
 
 ## Table of Contents <!-- omit in toc -->
